@@ -1,3 +1,4 @@
+"use client"
 import dynamic from 'next/dynamic';
 import Approach from "@/components/Approach";
 import Clients from "@/components/Clients";
