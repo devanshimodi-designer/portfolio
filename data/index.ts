@@ -1,7 +1,7 @@
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
+  // { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "Passionate UI/UX designer who blends research, strategy, and aesthetics to shape impactful products.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -72,35 +72,35 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "FigPro",
-    des: "A minimalistic Figma clone to show how to add real-world features like live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using fabric.js.",
-    img: "/pr1.svg",
+    title: "Scholar Clone",
+    des: "Designed the complete UI/UX architecture and website experience for ScholarClone, an all-in-one K-12 management platform, focusing on intuitive navigation, clear product storytelling, and improved user engagement.",
+    img: "/p1.png",
     iconLists: ["/figma.png", "lovable.svg", ],
-    link: "https://fig-pro-tau.vercel.app/",
+    link: "https://scholarclone.com/",
   },
   {
     id: 2,
-    title: "Boom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
+    title: "Fibervalley",
+    des: "Crafted a clear, credible, and user-friendly digital identity for Fibervalley, turning complex services into a seamless and trustworthy web experience.",
+    img: "/p2.png",
     iconLists: ["/figma.png", "/lovable.svg"],
-    link: "https://boom-drab.vercel.app/",
+    link: "https://fibervalleyv1.vercel.app/",
   },
   {
     id: 3,
-    title: "Event-Euphoria - An Event Booking App",
-    des: "A REAL Software-as-a-Service app with features and a payments and credits system using the latest tech stack.",
-    img: "/pr2.svg",
+    title: "HumFirst",
+    des: "Designed the end-to-end UI/UX for HP Skill System — a scalable skills & competency platform featuring assessment flows, personalized learning paths, admin tooling, and org-level analytics to drive measurable upskilling.",
+    img: "/p3.png",
     iconLists: ["/figma.png", "/lovable.svg"],
-    link: "https://event-euphoria.vercel.app/",
+    link: "https://www.figma.com/proto/TDcq3bNJqAvdMLFJ3oOUWA/CMS?page-id=0%3A1&node-id=453-180&scaling=scale-down-width&content-scaling=fixed&t=v1MV8v6oQ6bQTw5D-1",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
+    title: "Velvet pour",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    img: "/p4.png",
     iconLists: ["/figma.png", "/lovable.svg"],
-    link: "https://iphone-five-xi.vercel.app/",
+    link: "https://www.figma.com/proto/kbXDlShJERfoXkpi7m207N/Personal-Demo-Design?page-id=29%3A51&node-id=29-405&p=f&viewport=417%2C60%2C0.08&t=wzZZgZyGv6edXDke-1&scaling=min-zoom&content-scaling=fixed",
   },
 ];
 
